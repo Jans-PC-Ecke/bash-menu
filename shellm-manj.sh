@@ -45,7 +45,7 @@ echo -e "  		===>> Option auswählen: \c"
 		3) tty-clock -c;;
 		2) sudo ./temp.sh;;
 		4) bashtop;;
-		5) ssh hans@192.168.1.117;;
+		5) ssh server@ip;;
 		6) ip addr;;
 		7) sudo mc;;
 		8) shutdown now;;
