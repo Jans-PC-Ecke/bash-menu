@@ -42,7 +42,7 @@ echo -e "  		===>> Option auswählen: \c"
 		2) ./temp.sh;;
 		4) tty-clock -c;;
 		5) bashtop;;
-		6) ssh hans@192.168.1.117;;
+		6) ssh server@ip;;
 		7) ip addr;;
 		8) shutdown -now;;
 		q) exit;;
