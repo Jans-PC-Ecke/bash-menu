@@ -41,8 +41,8 @@ echo -e "  		===>> Option auswählen: \c"
 		4) sudo mc;;
 		5) neofetch;;
 		6) tty-clock -c -C1 -S -s;;
-		7) ssh hans@192.168.1.117;;
-		8) ssh raspberry@192.168.1.89;;
+		7) ssh name@ip;;
+		8) ssh raspberry@ip;;
 		9) ./update.sh;;
 		10) ip addr;;
 		11) sudo shutdown -n;;
