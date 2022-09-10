@@ -38,8 +38,8 @@ echo -e "        	====>> Option ausählen: \c"
     4) mc;;
     5) neofetch;;
     6) tty-clock -c -C1 -S -s;;
-    7) ssh hans@192.168.1.117;;
-    8) ssh raspberry@192.168.1.89;;
+    7) ssh hans@ip;;
+    8) ssh raspberry@ip;;
     9) brew upgrade;;
     10) ifconfig | grep "inet " | grep -v 127.0.0.1 && ifconfig en0;;
     q) exit;;
